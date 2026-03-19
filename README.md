@@ -132,3 +132,9 @@ Gateway şu işlemleri yapabilir:
 API Gateway, microservice mimarisinde güvenlik, trafik yönetimi ve servisler arası iletişimi kolaylaştıran kritik bir bileşendir.
 
 Doğru tasarlandığında sistem performansını artırır ve yönetimi kolaylaştırır.
+
+
+
+---
+
+Endpoint-labs intern project
